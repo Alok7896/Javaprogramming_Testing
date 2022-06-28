@@ -23,9 +23,7 @@ public class DuplicateChar {
 				System.out.print(lang[i]+" No of times its repeat "+freq[i]);
 			}
 			System.out.println();
-		}	
-		
+		}
 	}
-
 
 }

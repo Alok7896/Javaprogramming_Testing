@@ -23,9 +23,14 @@ public class DuplicateChar {
 				System.out.print(lang[i]+" No of times its repeat "+freq[i]);
 			}
 			System.out.println();
-		}	
+		}
+		
 		
 	}
-
+<<<<<<< HEAD
+	
+=======
+	System.out.println("Git validation");
+>>>>>>> 200c57aacf84c9a0207512fdfc1710c7abefdf6c
 
 }
