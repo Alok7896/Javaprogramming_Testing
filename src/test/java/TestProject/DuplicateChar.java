@@ -24,6 +24,9 @@ public class DuplicateChar {
 			}
 			System.out.println();
 		}
+		
+		
 	}
+	
 
 }
