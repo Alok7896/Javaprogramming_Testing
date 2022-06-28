@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T11:24:48 IST" name="Default suite" finished-at="2022-06-28T11:24:48 IST" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T11:24:48 IST" name="Default test" finished-at="2022-06-28T11:24:48 IST" duration-ms="107">
+      <class name="TestProject.lognestRepeatingSequence">
+        <test-method signature="logestRepeatingSequence()[pri:0, instance:TestProject.lognestRepeatingSequence@22ef9844]" started-at="2022-06-28T11:24:48 IST" name="logestRepeatingSequence" finished-at="2022-06-28T11:24:48 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logestRepeatingSequence -->
+      </class> <!-- TestProject.lognestRepeatingSequence -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
