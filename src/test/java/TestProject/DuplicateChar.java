@@ -25,5 +25,6 @@ public class DuplicateChar {
 			System.out.println();
 		}
 	}
+	System.out.println("Git validation");
 
 }
